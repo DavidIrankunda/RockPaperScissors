@@ -1,4 +1,4 @@
-<h1>This is a Rock Paper Scissors Project</h1>
+<h1>hey, I'm irankunda david as frontend developer</h1>
 
 This project is to create a game of Rock Paper Scissor that player can choose the 3 buttons of their choice.
 
