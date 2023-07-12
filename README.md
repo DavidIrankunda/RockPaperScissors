@@ -6,3 +6,5 @@ If the player beat the Computer, player gain one point and viceversa. The winner
 
 
 Thank you! 
+
+you can check out by clicking here [https://davidirankunda.github.io/RockPaperScissors/]
