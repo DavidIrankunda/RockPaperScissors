@@ -1,6 +1,6 @@
 <h1>hey, I'm irankunda david as frontend developer</h1>
 
-This project creation as game of Rock Paper Scissor that player.
+This project of game => Rock Paper Scissor that player.
 
 If the player beat the Computer, player gain one point and viceversa. The winner is determine by who reach the 5 points first.
 
